@@ -10,8 +10,8 @@ import os
 import getpass
 
 # constants
-LDAP_URI = "ldap://ldapmaster.battle.net"
-OU_USERS = "ou=users,dc=battle,dc=net"
+LDAP_URI = "ldap://"
+OU_USERS = "ou=users,dc=,dc="
 
 def check_password(string1, string2):
     """ Checks if both typed passwords are the same. Else, ask again. """
