@@ -9,7 +9,7 @@ from __future__ import print_function
 __version__ = "1.0.1"
 __date__    = "2019-05-17"
 __author__  = "Tyler Reymer"
-__email__   = "treymer@blizzard.com"
+__email__   = ""
 
 import argparse
 import os
